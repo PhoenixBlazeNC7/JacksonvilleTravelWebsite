@@ -1,0 +1,9 @@
+html {
+  height: 100%;
+  width: 100%;
+background-color: #c9cbf3;
+background-image: linear-gradient(315deg, #ffffff 0%, #91a6ff 74%);
+}
+body {
+  color: black;
+}
